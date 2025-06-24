@@ -1,0 +1,12 @@
+# Core LangChain & Dependencies
+langchain>=0.1.0
+chromadb>=0.4.15
+tqdm
+python-dotenv
+sentence-transformers
+streamlit
+openai  # Required for OpenRouter-compatible APIs
+
+# Optional but helpful
+pypdf  # If you're extracting from PDFs
+
