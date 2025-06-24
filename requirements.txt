@@ -1,5 +1,6 @@
 # Core LangChain & Dependencies
 langchain>=0.1.0
+langchain-community
 chromadb>=0.4.15
 tqdm
 python-dotenv
